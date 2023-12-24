@@ -7,7 +7,7 @@ Freelancer and Developer
 *   🌍  I'm based in Düsseldorf
 *   ✉️  You can contact me at [me@mrksmail.com](mailto:markus.macalla@mrksmail.com)
 *   🧠  I'm learning Machine Learning
-*   🤝  I'm open to collaborating on interesting projects### Skills
+*   🤝  I'm open to collaborating on interesting projects
   
 ### Skills
 
